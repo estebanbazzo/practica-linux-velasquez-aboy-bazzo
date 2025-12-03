@@ -1,0 +1,27 @@
+========== VERIFICACIÓN DE ARCHIVOS - VELASQUEZ ==========
+Estructura de directorios creada:
+/mnt/lvm_storage_velasquez
+/mnt/lvm_storage_velasquez/lost+found
+/mnt/lvm_storage_velasquez/proyectos
+/mnt/lvm_storage_velasquez/proyectos/activos
+/mnt/lvm_storage_velasquez/proyectos/archivados
+/mnt/lvm_storage_velasquez/temporal
+/mnt/lvm_storage_velasquez/respaldos
+
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant equipotrabajo 27 Dec  3 00:17 /mnt/lvm_storage_velasquez/respaldos/documento_09.txt
+
