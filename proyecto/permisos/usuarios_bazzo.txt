@@ -1,0 +1,9 @@
+========== INFORMACIÓN DE USUARIOS Y GRUPOS - BAZZO ==========
+Usuario actual: whoami
+Grupos del usuario: groups
+ID del usuario: id
+Usuarios del sistema:
+estudiante1:x:1002:1002::/home/estudiante1:/bin/sh
+estudiante2:x:1003:1003::/home/estudiante2:/bin/sh
+estudiante3:x:1004:1004::/home/estudiante3:/bin/sh
+
