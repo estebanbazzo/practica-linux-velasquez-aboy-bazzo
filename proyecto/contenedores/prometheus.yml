@@ -1,0 +1,9 @@
+global:
+  scrape_interval: 15s      # Frecuencia con la que Prometheus recolecta métricas
+  evaluation_interval: 15s  # Frecuencia de evaluación de reglas de alertas
+
+scrape_configs:
+  # Job para monitorear el propio Prometheus
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
