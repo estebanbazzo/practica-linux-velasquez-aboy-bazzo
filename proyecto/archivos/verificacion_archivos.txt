@@ -46,3 +46,29 @@ Archivos en cada directorio:
 -rw-r--r-- 1 root root 27 Dec  2 20:53 /mnt/lvm_storage_bazzo/respaldos/documento_10.txt
 -rw-r--r-- 1 root root 27 Dec  2 20:53 /mnt/lvm_storage_bazzo/respaldos/documento_09.txt
 
+========== VERIFICACIÓN DE ARCHIVOS - Aboy ==========
+Estructura de directorios creada:
+/mnt/lvm_storage_Aboy
+/mnt/lvm_storage_Aboy/lost+found
+/mnt/lvm_storage_Aboy/proyectos
+/mnt/lvm_storage_Aboy/proyectos/activos
+/mnt/lvm_storage_Aboy/proyectos/archivados
+/mnt/lvm_storage_Aboy/temporal
+/mnt/lvm_storage_Aboy/respaldos
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Dec  2 23:49 /mnt/lvm_storage_Aboy/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:49 /mnt/lvm_storage_Aboy/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:49 /mnt/lvm_storage_Aboy/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:49 /mnt/lvm_storage_Aboy/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:49 /mnt/lvm_storage_Aboy/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/proyectos/archivados/documento_06.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/temporal/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/temporal/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/temporal/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/temporal/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:45 /mnt/lvm_storage_Aboy/temporal/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:56 /mnt/lvm_storage_Aboy/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 27 Dec  2 23:56 /mnt/lvm_storage_Aboy/respaldos/documento_09.txt
+
