@@ -1,0 +1,79 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+[...]
+PS C:\Users\esteb\OneDrive\Escritorio\TP-Vagrant> vagrant up
+[...]
+PS C:\Users\esteb\OneDrive\Escritorio\TP-Vagrant> vagrant ssh
+[...]
+vagrant@linux-practice:~/practica-linux-velasquez-aboy-bazzo$ history
+  [...]
+  374  sudo apt-get update
+  375  sudo apt-get install -y apache2
+  376  sudo apt-get install -y mysql-server
+  377  sudo apt-get install -y php libapache2-mod-php php-mysql
+  378  apache2 -v
+  379  mysql --version
+  380  php -v
+  381  sudo systemctl start mysql
+  382  sudo systemctl enable mysql
+  383  sudo mysql_secure_installation
+  384  sudo mysql -e "CREATE DATABASE tp_final_db;"
+  385  sudo mysql -e "CREATE USER 'alumno'@'localhost' IDENTIFIED BY 'practica123';"
+  386  sudo mysql -e "GRANT ALL PRIVILEGES ON tp_final_db.* TO 'alumno'@'localhost';"
+  387  sudo mysql -e "FLUSH PRIVILEGES;"
+  388  sudo a2enmod rewrite
+  389  sudo a2enmod php8.1
+  390  sudo systemctl restart apache2
+  391  sudo systemctl enable apache2
+  [...]
+  401  sudo nano index.html
+  402  sudo rm index.html
+  [...]
+  405  sudo touch index.html
+  406  sudo nano index.html
+  407  cat index.html
+  408  sudo touch info.php
+  409  sudo nano info.php
+  410  cat info.php
+  411  sudo touch test_db.php
+  412  sudo nano test_db.php
+  413  cat test_db.php
+  [...]
+  415  sudo chown -R www-data:www-data /var/www/html/
+  416  sudo chmod -R 755 /var/www/html/
+  417  sudo systemctl status apache2
+  418  sudo systemctl status mysql
+  [...]
+  424  cd practica-linux-velasquez-aboy-bazzo/
+  425  git status
+  [...]
+  432  mkdir lamp
+  433  cd lamp
+  434  cd ..
+  435  echo "========== VERIFICACIÓN SERVIDOR LAMP - BAZZO ==========" > lamp/verificacion_lamp.txt
+  436  echo "=== VERSIONES INSTALADAS ===" >> lamp/verificacion_lamp.txt
+  437  apache2 -v >> lamp/verificacion_lamp.txt
+  438  mysql --version >> lamp/verificacion_lamp.txt
+  439  php -v >> lamp/verificacion_lamp.txt
+  440  echo "" >> lamp/verificacion_lamp.txt
+  441  echo "=== ESTADO DE SERVICIOS ===" >> lamp/verificacion_lamp.txt
+  442  sudo systemctl status apache2 --no-pager >> lamp/verificacion_lamp.txt
+  443  echo "" >> lamp/verificacion_lamp.txt
+  444  sudo systemctl status mysql --no-pager >> lamp/verificacion_lamp.txt
+  445  echo "" >> lamp/verificacion_lamp.txt
+  446  echo "=== PUERTOS EN ESCUCHA ===" >> lamp/verificacion_lamp.txt
+  [...]
+  449  sudo apt update
+  450  sudo apt install net-tools
+  451  sudo netstat -tlnp | grep -E '(apache|mysql)' >> lamp/verificacion_lamp.txt
+  452  echo "" >> lamp/verificacion_lamp.txt
+  453  echo "=== ARCHIVOS WEB CREADOS ===" >> lamp/verificacion_lamp.txt
+  454  ls -la /var/www/html/ >> lamp/verificacion_lamp.txt
+  455  echo "" >> lamp/verificacion_lamp.txt
+  456  cd ..
+  457  git status
+  458  git add .
+  459  git commit -m "(main) Se publica la resolución del Alumno B - Desarrollador del Ejercicio Bonus (Opcional) de Implementación de Servidor LAMP Completo"
+  460  git push origin main
+  461  history
+vagrant@linux-practice:~/practica-linux-velasquez-aboy-bazzo$
