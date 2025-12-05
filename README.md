@@ -121,34 +121,34 @@ La realización de este trabajo práctico nos permitió consolidar los conocimie
 practica-linux-velasquez-aboy-bazzo/
 ├── proyecto/
 │   ├── informacion/
-│   │   ├── ip_vm.txt               # IPs de los integrantes
-│   │   └── system_info.txt         # Salida de fastfetch colaborativo
+│   │   ├── ip_vm.txt                     # IPs de los integrantes
+│   │   └── system_info.txt               # Salida de fastfetch colaborativo
 │   ├── permisos/
-│   │   ├── usuarios_[apellido].txt # Info de usuarios y grupos
+│   │   ├── usuarios_[apellido].txt       # Info de usuarios y grupos
 │   │   └── verificacion_permisos.txt
 │   ├── lvm/
-│   │   └── lvm-[apellido].txt      # Evidencia de particionamiento LVM
+│   │   └── lvm-[apellido].txt            # Evidencia de particionamiento LVM
 │   ├── archivos/
 │   │   └── verificacion_archivos.txt
 │   ├── contenedores/
-│   │   ├── docker-compose.yml      # Archivo orquestador corregido
-│   │   ├── prometheus.yml          # Configuración de métricas corregida
-│   │   ├── loki-config.yml         # Configuración de logs (agregada)
-│   │   ├── errores_encontrados.md  # Reporte de debugging
-│   │   ├── logs_completos.txt      # Logs de ejecución
+│   │   ├── docker-compose.yml            # Archivo orquestador corregido
+│   │   ├── prometheus.yml                # Configuración de métricas corregida
+│   │   ├── loki-config.yml               # Configuración de logs (agregada)
+│   │   ├── errores_encontrados.md        # Reporte de debugging
+│   │   ├── logs_completos.txt            # Logs de ejecución
 │   │   ├── verificacion_contenedores.txt
-│   │   └── capturas/               # Evidencia visual de Grafana/Docker
+│   │   └── capturas/                     # Evidencia visual de Grafana/Docker
 │   │       ├── docker_ps.png
 │   │       ├── grafana_dashboard.png
 │   │       ├── grafana_datasources.png
 │   │       ├── prometheus_targets.png
 │   │       └── resolucion_errores.png
 │   └── lamp/ (Bonus)
-│       ├── verificacion_lamp.txt   # Estado de servicios Apache/MySQL
-│       ├── comandos_ejecutados.txt # Historial de comandos
-│       └── capturas/               # Screenshots del sitio web y PHP
+│       ├── verificacion_lamp.txt         # Estado de servicios Apache/MySQL
+│       ├── comandos_ejecutados.txt       # Historial de comandos
+│       └── capturas/                     # Screenshots del sitio web y PHP
 │           ├── index_html.png
 │           ├── info_php.png
 │           └── test_db_php.png
-├── Vagrantfile                     # Configuración de la VM
-└── README.md                       # Documentación general (este archivo)
+├── Vagrantfile                           # Configuración de la VM
+└── README.md                             # Documentación general (este archivo)
