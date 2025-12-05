@@ -120,8 +120,6 @@ La realización de este trabajo práctico nos permitió consolidar los conocimie
 ```text
 practica-linux-velasquez-aboy-bazzo/
 ├── proyecto/
-│   ├── README.md                   # Documentación general (este archivo)
-│   ├── Vagrantfile                 # Configuración de la VM
 │   ├── informacion/
 │   │   ├── ip_vm.txt               # IPs de los integrantes
 │   │   └── system_info.txt         # Salida de fastfetch colaborativo
@@ -152,4 +150,5 @@ practica-linux-velasquez-aboy-bazzo/
 │           ├── index_html.png
 │           ├── info_php.png
 │           └── test_db_php.png
-└── Trabajo Práctico - Administración de Sistemas Linux con Vagrant.pdf
+├── Vagrantfile                     # Configuración de la VM
+└── README.md                       # Documentación general (este archivo)
