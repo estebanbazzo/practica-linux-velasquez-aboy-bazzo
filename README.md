@@ -33,6 +33,15 @@
 
 ---
 
+## 📋 Índice
+
+- [Introducción y Objetivos](#-introducción-y-objetivos)
+- [Proceso de Resolución](#-proceso-de-resolución)
+- [Conclusiones](#-conclusiones)
+- [Estructura del Repositorio](#-estructura-del-repositorio)
+
+---
+
 ## 📝 Introducción y Objetivos
 
 El objetivo principal de este trabajo práctico fue la implementación colaborativa de un entorno de administración de sistemas Linux utilizando virtualización con Vagrant. A través de la división de roles (Administrador, Desarrollador y Operador), el equipo simuló un escenario real de trabajo IT, abarcando desde la configuración básica del sistema hasta el despliegue de servicios en contenedores y monitoreo.
