@@ -19,10 +19,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Universidad Tecnológica Nacional - Facultad Regional Avellaneda (UTN-FRA)** **Tecnicatura Universitaria en Programación**
-**Materia:** Arquitectura y Sistemas Operativos
-**Comisión:** 311
-**Grupo:** 5
+**Universidad Tecnológica Nacional - Facultad Regional Avellaneda (UTN-FRA)** **Tecnicatura Universitaria en Programación**  
+**Materia:** Arquitectura y Sistemas Operativos  
+**Comisión:** 311  
+**Grupo:** 5  
 **Cuatrimestre:** 2° - 2025
 
 ## 👥 Integrantes del Equipo
