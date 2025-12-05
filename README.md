@@ -137,10 +137,18 @@ practica-linux-velasquez-aboy-bazzo/
 │   │   ├── loki-config.yml         # Configuración de logs (agregada)
 │   │   ├── errores_encontrados.md  # Reporte de debugging
 │   │   ├── logs_completos.txt      # Logs de ejecución
-│   │   └── verificacion_contenedores.txt
+│   │   ├── verificacion_contenedores.txt
 │   │   └── capturas/               # Evidencia visual de Grafana/Docker
+│   │       ├── docker_ps.png
+│   │       ├── grafana_dashboard.png
+│   │       ├── grafana_datasources.png
+│   │       ├── prometheus_targets.png
+│   │       └── resolucion_errores.png
 │   └── lamp/ (Bonus)
 │       ├── verificacion_lamp.txt   # Estado de servicios Apache/MySQL
 │       ├── comandos_ejecutados.txt # Historial de comandos
 │       └── capturas/               # Screenshots del sitio web y PHP
+│           ├── index_html.png
+│           ├── info_php.png
+│           └── test_db_php.png
 └── Trabajo Práctico - Administración de Sistemas Linux con Vagrant.pdf
