@@ -27,9 +27,9 @@
 
 ## 👥 Integrantes del Equipo
 
-* **Velasquez, Camila** - Alumna A - "Administradora"
-* **Bazzo, Esteban** - Alumno B - "Desarrollador"
-* **Aboy, Federico** - Alumno C - "Operador"
+* **Velasquez, Camila:** Alumna A - "Administradora"
+* **Bazzo, Esteban:** Alumno B - "Desarrollador"
+* **Aboy, Federico:** Alumno C - "Operador"
 
 ---
 
